@@ -10,3 +10,4 @@ async def read_root():
 #pashka2 add this comment
 #pashka3 add this comment
 #pashka4 add this comment
+#pashka5 add this comment
